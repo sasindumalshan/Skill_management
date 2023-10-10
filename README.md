@@ -6,6 +6,9 @@
 <p>This my fist C# Project I Crate this Project For Impure My Skill and C# Lean  <p>
 
 <h4>Data Base is MySql</h4>
+<a href="https://drive.google.com/file/d/1aurKX8lGhg1Pwn2I0RzX6fYUGEqDenZC/view?usp=sharing" target="_blank">Download DB</a>
+<a href="https://dev.mysql.com/downloads/connector/net/" target="_blank">Download C# DB Connector/NET</a>
+
 
 <p> Please change your username and password for this project before using it. </p>
 <p>Souse path : Skill_management/DBConntection
